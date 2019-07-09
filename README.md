@@ -15,4 +15,9 @@ Udacity SPAICSF  60 days challenge
 * Loss, Gradient Descent
 ![Loss, Gradient Descent](/images/day6.JPG)
 - revised lesson about SPAI
-
+##### Day 7/8
+-  continue the course on EDX 
+- Neural Network and DeepLearning Course (youtube)
+ * Binary Classification (LINK)[https://www.youtube.com/watch?v=eqEc66RFY0I&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0&index=7]
+ * Logistic Regession (LINK)[https://www.youtube.com/watch?v=eqEc66RFY0I&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0&index=8]
+ 
