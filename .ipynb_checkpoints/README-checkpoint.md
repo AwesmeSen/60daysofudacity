@@ -21,3 +21,8 @@ Udacity SPAICSF  60 days challenge
 * Binary Classification [LINK](https://www.youtube.com/watch?v=eqEc66RFY0I&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0&index=7)
  * Logistic Regession [LINK](https://www.youtube.com/watch?v=eqEc66RFY0I&list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0&index=8)
  
+#### Day 8/9
+- continue the edx Course 
+- [Watched Video on youtube](https://www.youtube.com/watch?v=ZzWaow1Rvho&list=PLxt59R_fWVzT9bDxA76AHm3ig0Gg9S3So)
+- implemented sigmoid using python and slope of the cost.
+- 
