@@ -29,4 +29,7 @@ Udacity SPAICSF  60 days challenge
 
 #### Day 9/10/11 
 - Learn the math behind loss function and Gradient descent.
-- [NN ma]
+- [NN](https://www.youtube.com/watch?v=uHpKdZLutu0&t=11s)
+
+#### Day 11/12
+- Stoc
