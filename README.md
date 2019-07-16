@@ -32,4 +32,6 @@ Udacity SPAICSF  60 days challenge
 - [NN](https://www.youtube.com/watch?v=uHpKdZLutu0&t=11s)
 
 #### Day 11/12
-- Stoc
+- Stochastic Gradient Descent
+- mini-batch Gradient Descent
+

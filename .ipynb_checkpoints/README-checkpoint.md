@@ -26,3 +26,12 @@ Udacity SPAICSF  60 days challenge
 - [Watched Video on youtube](https://www.youtube.com/watch?v=ZzWaow1Rvho&list=PLxt59R_fWVzT9bDxA76AHm3ig0Gg9S3So)
 - implemented sigmoid using python and slope of the cost.
 - 
+
+#### Day 9/10/11 
+- Learn the math behind loss function and Gradient descent.
+- [NN](https://www.youtube.com/watch?v=uHpKdZLutu0&t=11s)
+
+#### Day 11/12
+- Stochastic Gradient Descent
+- mini-batch Gradient Descent
+
