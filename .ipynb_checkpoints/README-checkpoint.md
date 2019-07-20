@@ -35,3 +35,10 @@ Udacity SPAICSF  60 days challenge
 - Stochastic Gradient Descent
 - mini-batch Gradient Descent
 
+#### Day 12/13/14 
+- bad health
+
+#### Day 15/16
+- attended meetup with SG MUMBAI 
+![Sg_mumbai](/images/SG_mum1.JPG)
+- Continue the EDX course
