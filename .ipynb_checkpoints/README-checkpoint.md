@@ -40,5 +40,5 @@ Udacity SPAICSF  60 days challenge
 
 #### Day 15/16
 - attended meetup with SG MUMBAI 
-![Sg_mumbai](/images/SG_mum1.JPG)
+![Sg_mumbai](/images/SG_mumbai.JPG)
 - Continue the EDX course
