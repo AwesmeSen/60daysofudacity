@@ -40,5 +40,10 @@ Udacity SPAICSF  60 days challenge
 
 #### Day 15/16
 - attended meetup with SG MUMBAI 
-![Sg_mumbai](/images/SG_mumbai.JPG)
+![Sg_mumbai](/images/Sg_mumbai.JPG)
 - Continue the EDX course
+
+### Day 17/18
+- Completed EDX FeedForward Nural Network
+- Back Propragation 
+- activation Function
