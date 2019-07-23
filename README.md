@@ -47,3 +47,8 @@ Udacity SPAICSF  60 days challenge
 - Completed EDX FeedForward Nural Network
 - Back Propragation 
 - activation Function
+
+### Day 18/19
+- revised squared error function
+- revised slope of the function 
+- revised classifaction using linear regession 
