@@ -52,3 +52,7 @@ Udacity SPAICSF  60 days challenge
 - revised squared error function
 - revised slope of the function 
 - revised classifaction using linear regession 
+ ### day 20/21
+ - Stochastic Gradient Descent
+- mini-batch Gradient Descent
+![batch gradient descent](/images/2point3.JPG)
