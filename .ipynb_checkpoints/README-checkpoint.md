@@ -56,3 +56,7 @@ Udacity SPAICSF  60 days challenge
  - Stochastic Gradient Descent
 - mini-batch Gradient Descent
 ![batch gradient descent](/images/2point3.JPG)
+
+### day 26
+- bulid first DL model on banking dataset. 
+![DL model of banking dataset](https://github.com/activationeuron/DLNN/blob/master/ANN.ipynb)
