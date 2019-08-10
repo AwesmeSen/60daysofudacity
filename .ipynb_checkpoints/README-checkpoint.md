@@ -60,3 +60,7 @@ Udacity SPAICSF  60 days challenge
 ### day 26
 - bulid first DL model on banking dataset. 
 ![DL model of banking dataset](https://github.com/activationeuron/DLNN/blob/master/ANN.ipynb)
+
+### day 27
+- build a modele on mnist data set , accuracy about 96% 
+![DL model to identify the number](https://github.com/activationeuron/DLNN/blob/master/sentdex/DLwithpytontfkeras.ipynb)
